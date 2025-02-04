@@ -1,0 +1,13 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Outfit", serif;
+    height: 100vh;
+    background: #161513;
+    color: white;
+}
+
